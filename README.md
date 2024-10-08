@@ -31,6 +31,14 @@ This command starts the Expo development server, allowing you to test and develo
    ```bash
    npm install
    ```
+   4. Navigate to MultiOSApps:
+   ```bash
+   cd MultiOSApps
+   ```
+      5. Install all dependencies for MultiOSApps:
+   ```bash
+   npm install
+   ```
 
 ### Usage
 After installing dependencies, use the command mentioned above to start your app. You can modify the code and see live updates instantly.
