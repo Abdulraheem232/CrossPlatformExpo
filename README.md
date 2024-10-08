@@ -1,4 +1,4 @@
-Sure! Here’s a brief description you can use for your React Native cross-platform desktop app that runs with `npm run expo`:
+ Here’s a brief description you can use for your React Native cross-platform desktop app that runs with `npm run expo`:
 
 ---
 
