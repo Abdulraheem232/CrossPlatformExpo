@@ -39,6 +39,26 @@ This command starts the Expo development server, allowing you to test and develo
    ```bash
    npm install
    ```
+6. Navigate to your editapp directory:
+   ```bash
+   cd ..
+   ```
+6. Run your desktop macOS/linux/windows:
+   ```bash
+   npm run desktop
+   ```
+7. Run your web:
+   ```bash
+   npm run web
+   ```
+8. Run your android app:
+   ```bash
+   npm run android
+   ```
+9.Run your ios:
+   ```bash
+   npm run ios
+   ```
 
 ### Usage
 After installing dependencies, use the command mentioned above to start your app. You can modify the code and see live updates instantly.
