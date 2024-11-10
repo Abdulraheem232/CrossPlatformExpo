@@ -12,6 +12,7 @@ npm run expo
 ```
 
 This command starts the Expo development server, allowing you to test and develop your app in real time.
+**Make sure you have python installed or this wouldnt work**
 
 ### Features
 - **Cross-Platform Support**: Run on Windows, macOS, Linux, web, Android, and iOS without code modifications.
@@ -25,7 +26,7 @@ This command starts the Expo development server, allowing you to test and develo
    ```
 2. Navigate to the project directory:
    ```bash
-   cd editapp
+   cd <directory name>
    ```
 3. Install dependencies:
    ```bash
@@ -37,9 +38,9 @@ This command starts the Expo development server, allowing you to test and develo
    ```
 5. Install all dependencies for MultiOSApps:
    ```bash
-   npm install
+   pip install webview
    ```
-6. Navigate to your editapp directory:
+6. Navigate to your current directory:
    ```bash
    cd ..
    ```
