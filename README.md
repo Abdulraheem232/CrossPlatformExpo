@@ -26,7 +26,7 @@ This command starts the Expo development server, allowing you to test and develo
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <directory name>
+   cd crossplatform/editapp
    ```
 3. Install dependencies:
    ```bash
@@ -38,7 +38,7 @@ This command starts the Expo development server, allowing you to test and develo
    ```
 5. Install all dependencies for MultiOSApps:
    ```bash
-   pip install webview
+   npm install
    ```
 6. Navigate to your current directory:
    ```bash
